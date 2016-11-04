@@ -1,0 +1,6 @@
+.menuBadge{
+    position: absolute;
+     z-index: 9999999999;
+    outline:none;
+}
+
