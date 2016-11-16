@@ -25,3 +25,8 @@ Thumbs.db
 *.sql
 *.sqlite
 
+# Wordpress Files #
+###################
+.svn
+
+
